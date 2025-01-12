@@ -1,0 +1,1 @@
+const baseUrl = "http://192.168.48.69:3001/api";  // Remplacez avec la nouvelle adresse IP
